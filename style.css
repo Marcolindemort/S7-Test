@@ -1,0 +1,13 @@
+body {
+	background-image: url(./img/vecteezy_abstract-purple-fluid-wave-background_6868933.jpg);
+	color: white;
+}
+
+.d-grid > .btn {
+	background-color: rgb(186, 43, 226);
+	color: white;
+}
+
+.d-grid > .btn:hover {
+	background-color: rgb(192, 78, 224);
+}
